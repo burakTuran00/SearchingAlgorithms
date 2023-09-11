@@ -2,7 +2,7 @@ package BinarySearch;
 
 import java.util.Arrays;
 
-public class BinarySearcgin {
+public class BinarySearch {
 
   public static void main(String[] args)
    {
